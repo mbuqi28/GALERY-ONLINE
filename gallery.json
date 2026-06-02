@@ -43,13 +43,13 @@
     },
     {
       "id": 3,
-      "name": "Anime Art",
+      "name": "btth",
       "cover": "https://images.unsplash.com/photo-1578632738981-43c16264020c?q=80&w=500&auto=format&fit=crop",
       "items": [
         {
           "type": "image",
           "title": "Landscape Art",
-          "url": "https://images.unsplash.com/photo-1541462608141-ad4d60232490?q=80&w=1000&auto=format&fit=crop"
+          "url": "https://i.pinimg.com/736x/b8/31/d1/b831d1a628fca3d0c8f035d629c62a01.jpg"
         }
       ]
     }
