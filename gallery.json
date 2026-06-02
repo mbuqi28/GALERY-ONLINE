@@ -1,1 +1,57 @@
-tes
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "Nature Scenery",
+      "cover": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=500&auto=format&fit=crop",
+      "items": [
+        {
+          "type": "image",
+          "title": "Mountain View",
+          "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+          "type": "image",
+          "title": "Misty Forest",
+          "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+          "type": "video",
+          "title": "Beautiful Waterfall",
+          "thumbnail": "https://images.unsplash.com/photo-1433086566608-5732f1b79315?q=80&w=500&auto=format&fit=crop",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Urban City",
+      "cover": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?q=80&w=500&auto=format&fit=crop",
+      "items": [
+        {
+          "type": "image",
+          "title": "Night Streets",
+          "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?q=80&w=1000&auto=format&fit=crop"
+        },
+        {
+          "type": "video",
+          "title": "City Timelapse",
+          "thumbnail": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?q=80&w=500&auto=format&fit=crop",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Anime Art",
+      "cover": "https://images.unsplash.com/photo-1578632738981-43c16264020c?q=80&w=500&auto=format&fit=crop",
+      "items": [
+        {
+          "type": "image",
+          "title": "Landscape Art",
+          "url": "https://images.unsplash.com/photo-1541462608141-ad4d60232490?q=80&w=1000&auto=format&fit=crop"
+        }
+      ]
+    }
+  ]
+}
